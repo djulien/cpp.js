@@ -1,0 +1,26 @@
+{
+  "name": "cpp.js",
+  "version": "1.0.0",
+  "description": "Simple implementation of the C Preprocessor in Javascript",
+  "main": "cpp.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node cpp.js/tests/c99_examples/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acgessler/cpp.js.git"
+  },
+  "keywords": [
+    "javascript",
+    "preprocessor"
+  ],
+  "author": "Alexander Christoph Gessler",
+  "license": "see LICENSE",
+  "bugs": {
+    "url": "https://github.com/acgessler/cpp.js/issues"
+  },
+  "homepage": "https://github.com/acgessler/cpp.js#readme"
+}
